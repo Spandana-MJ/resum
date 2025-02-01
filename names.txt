@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-.
-=======
-"hi it's spandana MJ "
->>>>>>> Stashed changes
